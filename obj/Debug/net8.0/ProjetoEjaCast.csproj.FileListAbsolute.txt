@@ -28,3 +28,4 @@ C:\Users\10748.115\Documents\EjaCast\ProjetoEjaCast\obj\Debug\net8.0\refint\Proj
 C:\Users\10748.115\Documents\EjaCast\ProjetoEjaCast\obj\Debug\net8.0\ProjetoEjaCast.pdb
 C:\Users\10748.115\Documents\EjaCast\ProjetoEjaCast\obj\Debug\net8.0\ProjetoEjaCast.genruntimeconfig.cache
 C:\Users\10748.115\Documents\EjaCast\ProjetoEjaCast\obj\Debug\net8.0\ref\ProjetoEjaCast.dll
+C:\Users\10748.115\Documents\EjaCast\ProjetoEjaCast\obj\Debug\net8.0\ProjetoEjaCast.sourcelink.json
